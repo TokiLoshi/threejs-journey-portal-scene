@@ -14,7 +14,7 @@ import portalFragmentShader from "./shaders/portal/fragment.glsl";
 // Debug
 const debugObject = {};
 const gui = new GUI({
-	width: 400,
+	width: 300,
 });
 
 // Canvas
