@@ -11,4 +11,4 @@ A huge thank you to Bruno Simon for this wonderful course. I'm certain I will ke
 ### Demo
 
 ![Alt text](https://github.com/TokiLoshi/threejs-journey-portal-scene/blob/main/static/demo.png)
-Demo with Debug controls available [here](freehttps://threejs-journey-portal-scene-psi.vercel.app/)
+Demo with Debug controls available [here](https://threejs-journey-portal-scene-psi.vercel.app/)
