@@ -15,7 +15,10 @@ import portalFragmentShader from "./shaders/portal/fragment.glsl";
 const debugObject = {};
 const gui = new GUI({
 	width: 300,
+	theme: "dark",
+	title: "Portal",
 });
+gui.close();
 
 // Canvas
 const canvas = document.querySelector("canvas.webgl");
