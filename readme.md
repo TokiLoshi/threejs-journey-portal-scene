@@ -1,16 +1,14 @@
-# Three.js Journey
+# Three.js Journey Portal Scene
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+## About this project
 
-``` bash
-# Install dependencies (only the first time)
-npm install
+This fun portal scene is part of a series in Bruno Simon's [Three.js Journey](https://threejs-journey.com/). It combines 3D modeling with Blender, baking and UV unwrapping, optimization, and writing custom shaders, with the wonderful perlin noise function thanks to [Stefan Gustavson](https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83).
 
-# Run the local server at localhost:8080
-npm run dev
+Blender has been a huge learning curve but also a lot of fun. Not everything went quite according to plan, and I landed up with a floating rock, but look forward to adding to it and building on it in the future.
 
-# Build for production in the dist/ directory
-npm run build
-```
+A huge thank you to Bruno Simon for this wonderful course. I'm certain I will keep coming back to the lessons on this journey.
+
+### Demo
+
+![portalScene](./demo.png)
+Demo with Debug controls available [here](freehttps://threejs-journey-portal-scene-psi.vercel.app/)
